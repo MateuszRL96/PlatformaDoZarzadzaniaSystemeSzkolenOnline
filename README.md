@@ -1,4 +1,5 @@
 Spring Web: Umożliwia obsługę żądań HTTP, co jest kluczowe dla budowy interfejsu użytkownika.
+
 Spring Data JPA: Ułatwia pracę z bazą danych, a także implementację repozytoriów i operacji na encjach.
 Spring Security: Zapewnia mechanizmy zabezpieczeń, takie jak autentykacja i autoryzacja.
 Spring Cloud: Oferuje narzędzia do rozwoju rozproszonych systemów, takich jak Eureka (Service Discovery), Ribbon (Load Balancing), itp.
