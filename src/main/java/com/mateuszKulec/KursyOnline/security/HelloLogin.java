@@ -10,4 +10,15 @@ public class HelloLogin {
     public String get(){
         return "Hello";
     }
+
+    @GetMapping("/user")
+    public String helloUser(){
+        return "Hello User";
+    }
+
+    @GetMapping("/admin")
+    public String helloAdmin(){
+        return "Hello Admin";
+    }
+
 }
